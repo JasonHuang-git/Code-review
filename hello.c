@@ -20,7 +20,7 @@
         {
         	int * pVal = NULL;
             int add_val = 0;
-            add_val = add(10,100);
+            add_val = add(100,100);
             printf("\n\rthe add_val is %d\r\n",add_val);
           
         }
